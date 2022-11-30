@@ -1,10 +1,10 @@
-### Hi there 👋
+#### Hello 👋
 
 **I am Mugiraneza Jackson**,  I'm a software engineer ✨ _I'm delighted by your visit on my profile 🤞🏿_ ✨ you're welcome:
 
 - 🔭 I’m currently building staff 😎 with NodeJs | ReactJS | Django(DRF) | Java | React Native| ...
 - 🌱 I’m currently learning a little bit of flutter, ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mugiraneza-jackson-9a7a181b8/)
-- ⚡ Fun fact: I am a gamer 🤭
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mugiraneza-jackson-9a7a181b8/)
+- ⚡ Fun fact: I like gaming 🤭
