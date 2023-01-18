@@ -12,6 +12,6 @@
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact)](https://github.com/mugiranezaj/github-readme-stats)
-
+<!-- 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugiranezaj&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugiranezaj&show_icons=true&theme=transparent) -->
