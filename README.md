@@ -8,3 +8,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mugiraneza-jackson-9a7a181b8/)
 - ⚡ Fun fact: I like gaming 🤭
+
+
+### Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact)](https://github.com/mugiranezaj/github-readme-stats)
