@@ -11,7 +11,8 @@
 
 
 ### 🤓 Most Used Languages
-[![Top Langs](https://github-readme-stats-one-zeta-57.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less)](https://github.com/mugiranezaj/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-main-mugiranezaj.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less)](https://github.com/mugiranezaj/github-readme-stats)
 
 <!-- ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugiranezaj&show_icons=true&theme=transparent) -->
@@ -19,7 +20,7 @@
 ### 📈 Github Stats
 <picture>
 <source 
-  srcset="https://github-readme-stats-one-zeta-57.vercel.app/api?username=mugiranezaj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"
+  srcset="https://github-readme-stats-git-main-mugiranezaj.vercel.app/api?username=mugiranezaj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
