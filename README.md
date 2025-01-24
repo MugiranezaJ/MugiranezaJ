@@ -37,6 +37,20 @@
           alt="Top Languages"
         />
       </a>
+<!--       <picture>
+        <source 
+          srcset="https://github-readme-stats-git-main-mugiranezaj.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less&count_private=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source 
+          srcset="https://github-readme-stats-git-main-mugiranezaj.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+          <img 
+          src="https://github-readme-stats-git-main-mugiranezaj.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less" 
+          alt="Top Languages"
+        />
+      </picture> -->
     </td>
     <td align="center">
       <h3>📈 GitHub Stats</h3>
@@ -58,22 +72,6 @@
   </tr>
 </table>
 </div>
-
-
-<picture>
-        <source 
-          srcset="https://github-readme-stats-git-main-mugiranezaj.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source 
-          srcset="https://github-readme-stats-git-main-mugiranezaj.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img 
-          src="https://github-readme-stats-git-main-mugiranezaj.vercel.app/api/top-langs/?username=mugiranezaj&layout=compact&hide=html,css,less" 
-          alt="Top Languages"
-        />
-      </picture>
-    </div>
+</div>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mugiranezaj)](https://git.io/streak-stats) -->
